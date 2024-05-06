@@ -5,3 +5,4 @@
 *.anim filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
+*6fbd3bebb8868155af8ea4e7f447a9eb filter=lfs diff=lfs merge=lfs -text
